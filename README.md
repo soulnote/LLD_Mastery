@@ -96,12 +96,12 @@ LLD_Mastery/
 
 | Week | Status | Progress |
 |------|--------|----------|
-| Week 1: Fundamentals | 🟡 In Progress | ![25%](https://progress-bar.dev/25) |
-| Week 2: Design Patterns | ⚪ Pending | ![0%](https://progress-bar.dev/0) |
-| Week 3: System Components | ⚪ Pending | ![0%](https://progress-bar.dev/0) |
-| Week 4: Real Systems | ⚪ Pending | ![0%](https://progress-bar.dev/0) |
+| Week 1: Fundamentals | 🟡 In Progress | ![25%](https://progress-bar.dev/25?width=200&color=36BCF7) |
+| Week 2: Design Patterns | ⚪ Pending | ![0%](https://progress-bar.dev/0?width=200&color=lightgrey) |
+| Week 3: System Components | ⚪ Pending | ![0%](https://progress-bar.dev/0?width=200&color=lightgrey) |
+| Week 4: Real Systems | ⚪ Pending | ![0%](https://progress-bar.dev/0?width=200&color=lightgrey) |
 
-**Overall Progress:** ![25%](https://progress-bar.dev/25?title=25%25%20Complete)
+**Overall Progress:** ![25%](https://progress-bar.dev/25?width=400&color=36BCF7&title=25%20Complete)
 
 </div>
 
@@ -110,6 +110,22 @@ LLD_Mastery/
 - **Week 2**: Implement 5 design patterns from scratch
 - **Week 3**: Design database schema for 3 systems
 - **Week 4**: Complete 3 full system designs with code
+
+## 📊 Progress View
+
+<div align="center">
+
+**Week 1:** ████████░░ 80% (Day 1 Complete)
+
+**Week 2:** ░░░░░░░░░░ 0% (Not Started)
+
+**Week 3:** ░░░░░░░░░░ 0% (Not Started)
+
+**Week 4:** ░░░░░░░░░░ 0% (Not Started)
+
+**🎯 Overall Journey:** ████░░░░░░ 25% Complete
+
+</div>
 
 ## 📖 Resources
 - Head First Design Patterns
