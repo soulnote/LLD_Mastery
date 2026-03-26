@@ -1,0 +1,55 @@
+# Week4 Real Systems - Todo List
+
+## Day 22: System Design Fundamentals
+- [x] README.md - Already exists with theory content
+- [ ] Examples - Need to create
+- [ ] Exercises - Need to create  
+- [ ] Solutions - Need to create
+
+## Day 23: Designing Small System 1 (URL Shortener)
+- [ ] README.md
+- [ ] Examples
+- [ ] Exercises
+- [ ] Solutions
+
+## Day 24: Designing Small System 2 (Cache System)
+- [ ] README.md
+- [ ] Examples
+- [ ] Exercises
+- [ ] Solutions
+
+## Day 25: Designing Medium System 1 (Notification Service)
+- [ ] README.md
+- [ ] Examples
+- [ ] Exercises
+- [ ] Solutions
+
+## Day 26: Designing Medium System 2 (Search System)
+- [ ] README.md
+- [ ] Examples
+- [ ] Exercises
+- [ ] Solutions
+
+## Day 27: Designing Medium System 3 (Analytics Dashboard)
+- [ ] README.md
+- [ ] Examples
+- [ ] Exercises
+- [ ] Solutions
+
+## Day 28: Designing Complex System 1 (E-commerce Platform)
+- [ ] README.md
+- [ ] Examples
+- [ ] Exercises
+- [ ] Solutions
+
+## Day 29: Designing Complex System 2 (Social Media Platform)
+- [ ] README.md
+- [ ] Examples
+- [ ] Exercises
+- [ ] Solutions
+
+## Day 30: Designing Complex System 3 (Video Streaming Platform)
+- [ ] README.md
+- [ ] Examples
+- [ ] Exercises
+- [ ] Solutions
